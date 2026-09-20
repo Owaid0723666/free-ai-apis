@@ -74,6 +74,7 @@ No credit card required. Build AI apps for $0.
 | [SambaNova](https://sambanova.ai) | Fast inference platform | Free tier available | `apiKey` | [Docs](https://docs.sambanova.ai) |
 | [Novita AI](https://novita.ai) | LLM and image APIs | $0.50 free credits | `apiKey` | [Docs](https://novita.ai/docs) |
 | [Hyperbolic](https://hyperbolic.xyz) | Open-source model hosting | Free tier available | `apiKey` | [Docs](https://docs.hyperbolic.xyz) |
+| [onomeo](https://onomeo.com) | 36 models behind one OpenAI-compatible endpoint | Daily check-in credits, 3.5k/day after a 7-day streak (~6 DeepSeek V4.1 Flash calls, ~200 on light models), no card | `apiKey` | [Docs](https://onomeo.com/docs) |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -248,6 +249,7 @@ No credit card required. Build AI apps for $0.
 | [AIML API](https://aimlapi.com) | 200+ models, one API | Free tier included | `apiKey` | [Docs](https://docs.aimlapi.com) |
 | [LiteLLM](https://github.com/BerriAI/litellm) | Unified proxy for all providers | Unlimited (self-hosted) | `None` | [Docs](https://docs.litellm.ai) |
 | [Puter](https://puter.com) | Free AI in browser | Free, no signup | `None` | [Docs](https://developer.puter.com) |
+| [onomeo](https://onomeo.com) | Pools other providers' free tiers; OpenAI and Anthropic formats | 3.5k credits/day, counted in characters not requests; 450 req/5h site-wide pool | `apiKey` | [Docs](https://onomeo.com/docs) |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
