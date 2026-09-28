@@ -74,7 +74,7 @@ No credit card required. Build AI apps for $0.
 | [SambaNova](https://sambanova.ai) | Fast inference platform | Free tier available | `apiKey` | [Docs](https://docs.sambanova.ai) |
 | [Novita AI](https://novita.ai) | LLM and image APIs | $0.50 free credits | `apiKey` | [Docs](https://novita.ai/docs) |
 | [Hyperbolic](https://hyperbolic.xyz) | Open-source model hosting | Free tier available | `apiKey` | [Docs](https://docs.hyperbolic.xyz) |
-| [onomeo](https://onomeo.com) | 47 models behind one OpenAI-compatible endpoint (public beta) | Small daily check-in credits (50k on day 1, 200k/day from day 7), strict rate limits, no card; optional $5 one-time purchase | `apiKey` | [Docs](https://onomeo.com/docs) |
+| [onomeo](https://onomeo.com) | 47 models behind one OpenAI-compatible endpoint (public beta) | 35 free models with no credits, plus small daily check-in credits for 12 larger ones (20k on day 1, 50k/day from day 7), strict rate limits, no card; optional $5/month subscription | `apiKey` | [Docs](https://onomeo.com/docs) |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -249,7 +249,7 @@ No credit card required. Build AI apps for $0.
 | [AIML API](https://aimlapi.com) | 200+ models, one API | Free tier included | `apiKey` | [Docs](https://docs.aimlapi.com) |
 | [LiteLLM](https://github.com/BerriAI/litellm) | Unified proxy for all providers | Unlimited (self-hosted) | `None` | [Docs](https://docs.litellm.ai) |
 | [Puter](https://puter.com) | Free AI in browser | Free, no signup | `None` | [Docs](https://developer.puter.com) |
-| [onomeo](https://onomeo.com) | Pools other providers' free tiers, OpenAI-compatible (public beta) | 50k-200k check-in credits/day; 12 req/min, 450 req/5h site-wide pool; optional $5 one-time purchase | `apiKey` | [Docs](https://onomeo.com/docs) |
+| [onomeo](https://onomeo.com) | Pools other providers' free tiers, OpenAI-compatible (public beta) | 20k-50k check-in credits/day; 12 req/min, 450 req/5h site-wide pool; optional $5/month subscription | `apiKey` | [Docs](https://onomeo.com/docs) |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
